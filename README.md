@@ -26,4 +26,7 @@ Installation
  ```shell
 pod install
 ```
- 2. Open `AppPrototype.xcworkspace`
+ 2. Open `Gannimede.xcworkspace`
+ 
+### Privacy Policy
+https://gannimede.flycricket.io/privacy.html
