@@ -1,0 +1,118 @@
+/*
+ Localizable.strings
+ AppPrototype
+ 
+ Created by Oleg Gnashuk on 7/16/18.
+ Copyright © 2018 Oleg Gnashuk. All rights reserved.
+ */
+
+// Alert Titles
+"Working" = "Pracujący";
+"Empty Login Field" = "Puste Pole Logowania ";
+"Account Password Reset" = "Zmiana Hasła do Konta";
+"Error" = "Bląd";
+"Login Failed" = "Logowanie Nieudane";
+"Logout Failed" = "Wylogowanie się nie powiodło";
+"Duplicate Title" = "Zduplikowany Tytuł";
+"Insufficient Question Count" = "Niewystarczająca Liczba Pytań";
+"Save Progress" = "Zapisz Postęp";
+"Finish Creation" = "Zakończ Tworzenie";
+"Missing Titles" = "Brakujące Tytuły";
+"Duplicate Questions" = "Duplikaty Pytań";
+"Missing Answers" = "Brakujące Odpowiedzi";
+"Missing Corrert Answers" = "Brakujące Prawidłowe Odpowiedzi";
+"Confirm Subscription" = "Potwierdź Subskrybcję";
+"Non-unique Channel Title" = "Niepowtarzalny Tytuł Kanału";
+"Empty Channel Title" = "Pusty Tytuł Kanału";
+"Begin Quiz" = "Rozpocznij Test";
+"Clear All" = "Wyczyść Wszystko";
+"Finish Quiz" = "Zakończ Test";
+"Remove Profile Image" = "Usuń Obraz Profilu";
+"Error Occured" = "Wystąpił Błąd";
+"Change Saved" = "Zmień Zapisane";
+"Empty Name Field" = "Puste Pole Nazwy";
+"Log Out Error" = "Błąd Wylogowania";
+"Duplicate Answer" = "Duplikuj Odpowiedź";
+"Quiz Over" = "Test ukończony";
+"Download Fie" = "Pobierz plik";
+"Account Deletion" = "Usunięcie konta";
+"Confirm Removal" = "Potwierdź usunięcie";
+"Confirm Change" = "Potwierdzenie zmiany";
+
+// Alert Messages
+"Please wait..." = "Proszę czekać...";
+"Email and password fields can't be empty." = "Pola e-mail i hasło nie mogą być puste.";
+"Enter the email associated with account." = "Wprowadź adres e-mail powiązany z kontem.";
+"Password reset link was sent to the specified email." = "Link do resetowania hasła został wysałny na podany adres e-mail.";
+"Quiz with selected title already exists in user's repository." = "Test o wybranym tytule już istnieje w repozytorium uzytkownika.";
+"To create a quiz add at least one question." = "Aby utworzyć test, dodaj conajmniej jedno pytanie.";
+"Do you want to keep the draft?" = "Czy chcesz zachować wersję roboczą?";
+"Choose the action." = "Wybierz akcję.";
+"Please provide all question titles." = "Podaj wszystkie tytuły pytań.";
+"Quiz contains duplicated question titles." = "Test zawiera zduplikowane tytuły pytań.";
+"Some questions don't have any answers." = "Niektóre pytania nie zawierają żadnych odpowiedzi.";
+"Some questions don't have any answers marked as correct." = "W niektórych pytaniach nie ma żadnych odpowiedzi oznaczonych jako prawidłowe.";
+"Do you want to join the channel %s?" = "Czy chcesz dolączyć do kanału %s?";
+"Channel with such title already exists." = "Kanał o takim tytule już istnieje.";
+"Please provide a channel title." = "Podaj tytuł kanału.";
+"Do you want to start quiz %s now?" = "Czy chcesz teraz rozpocząć  test %s ?";
+"Are you sure you want to delete all notifications?" = "Czy na pewno chcesz usunąć wszystkie powiadomienia?";
+"Are you sure you want to complete the quiz?" = "Czy na pewno chcesz zakończyć test?";
+"Profile image was succesfully deleted." = "Obraz profilu został pomyślnie usunięty.";
+"User display name was successfuly changed to %s." = "Nazwa wyświetlana użytkownika została pomyślnie zmieniona na %s.";
+"User profile image was successfuly changed." = "Obraz profilu użytkownika został pomyślnie zmieniony.";
+"User name field can't be empty." = "Pole nazwy użytkownika nie może być puste.";
+"The answer repeats an existing." = "Odpowiedź powtarza istniejące.";
+"Time is up. Your current progress will be submitted automatically." = "Czas się skończył, twoje obecne postępy zostaną przesłane automatycznie.";
+"Do you want to download file %s?" = "Czy chcesz pobrać plik %s?";
+"Do you want to delete this user account?" = "Czy chcesz usunąć to konto użytkownika?";
+"Are you sure you want to permanently remove user account?" = "Czy na pewno chcesz trwale usunąć konto użytkownika?";
+"Are you sure you want to save changes?" = "Czy na pewno chcesz zapisać zmiany?";
+
+// Alert Actions
+"OK" = "W porązdku";
+"Hide" = "Ukryć";
+"Cancel" = "Anuluj";
+"Keep" = "Trzymać";
+"Discard" = "Odrzucać";
+"Save" = "Zapisać";
+"Save and Post" = "Zapisz i opublikuj";
+"Confirm" = "Potwierdzać";
+"Camera" = "Aparat";
+"Photo Library" = "Album Zdjęć";
+"View Image" = "Zobacz Obrazek";
+"Remove Image" = "Usuń Obraz";
+
+// Navigation Bar Item Titles
+"Back" = "Wstecz";
+"Notifications" = "Notyfikacje";
+"Channels" = "Kanałe";
+"Quizes" = "Testy";
+"Join" = "Dołacz";
+
+// Tab Bar Item Titles
+"Chats" = "Czat";
+"Alerts" = "Alerty";
+"Settings" = "Ustawienia";
+
+// Label Texts
+"Manage Channel" = "Zarządzaj Kanałem";
+"Create Quiz" = "Stwórz Test";
+"Show Channel Info" = "Pokaż Informacje o Kanale";
+"Question Count: %d" = "Liczba Pytań: %d";
+"Question #%d" = "Pytanie #%d";
+"Channel Invitation" = "Zaproszenie na Kanał ";
+"Quiz Available" = "Test Dostępny";
+"Responses count: %d" = "Odpowiedzi się liczą: %d";
+
+// Picker View Data Items
+"1 minute" = "1 minuta";
+"%d minutes" = "%d minuty";
+"none" = "Żaden";
+
+// Table View Row Actions
+"Edit" = "Edytować";
+"Delete" = "Kasować";
+
+// Search Bar Text
+"Search Channels" = "Wyszukaj kanały";
