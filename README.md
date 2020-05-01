@@ -2,13 +2,13 @@
 *An iOS chat app designed for team collaboration and aimed at communication between students and teachers*
 
 <p align="center">
-  <img src="AppPrototype/Screenshots/screenshot1.png" alt="Gannimede UI" width="612"/>
+  <img src="Gannimede/Screenshots/screenshot1.png" alt="Gannimede UI" width="612"/>
 </p>
 
 <hr>
 
 <p align="center">
-  <img src="AppPrototype/Screenshots/screenshot2.png" alt="Gannimede UI" width="612"/>
+  <img src="Gannimede/Screenshots/screenshot2.png" alt="Gannimede UI" width="612"/>
 </p>
 
 Compatibility
