@@ -65,6 +65,16 @@
 		7CA4E8D9245C8BA200CA5E8F /* AppStore-screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8D4245C8BA200CA5E8F /* AppStore-screenshot1.png */; };
 		7CA4E8DA245C8BA200CA5E8F /* AppStore-screenshot4.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8D5245C8BA200CA5E8F /* AppStore-screenshot4.png */; };
 		7CA4E8DB245C8BA200CA5E8F /* AppStore-screenshot5.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8D6245C8BA200CA5E8F /* AppStore-screenshot5.png */; };
+		7CA4E8E8245DBD9300CA5E8F /* AppStore-screenshot-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8DD245DBD9300CA5E8F /* AppStore-screenshot-1.png */; };
+		7CA4E8E9245DBD9300CA5E8F /* AppStore-screenshot-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8DE245DBD9300CA5E8F /* AppStore-screenshot-3.png */; };
+		7CA4E8EA245DBD9300CA5E8F /* AppStore-screenshot-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8DF245DBD9300CA5E8F /* AppStore-screenshot-2.png */; };
+		7CA4E8EB245DBD9300CA5E8F /* AppStore-screenshot-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8E0245DBD9300CA5E8F /* AppStore-screenshot-5.png */; };
+		7CA4E8EC245DBD9300CA5E8F /* AppStore-screenshot-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8E1245DBD9300CA5E8F /* AppStore-screenshot-4.png */; };
+		7CA4E8ED245DBD9300CA5E8F /* AppStore-screenshot-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8E3245DBD9300CA5E8F /* AppStore-screenshot-1.png */; };
+		7CA4E8EE245DBD9300CA5E8F /* AppStore-screenshot-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8E4245DBD9300CA5E8F /* AppStore-screenshot-3.png */; };
+		7CA4E8EF245DBD9300CA5E8F /* AppStore-screenshot-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8E5245DBD9300CA5E8F /* AppStore-screenshot-2.png */; };
+		7CA4E8F0245DBD9300CA5E8F /* AppStore-screenshot-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8E6245DBD9300CA5E8F /* AppStore-screenshot-5.png */; };
+		7CA4E8F1245DBD9300CA5E8F /* AppStore-screenshot-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA4E8E7245DBD9300CA5E8F /* AppStore-screenshot-4.png */; };
 		B67B6C2A6398D78A57A25780 /* Pods_Gannimede.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA68B5418FF4DFCEF28F5ABF /* Pods_Gannimede.framework */; };
 /* End PBXBuildFile section */
 
@@ -159,6 +169,16 @@
 		7CA4E8D4245C8BA200CA5E8F /* AppStore-screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot1.png"; sourceTree = "<group>"; };
 		7CA4E8D5245C8BA200CA5E8F /* AppStore-screenshot4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot4.png"; sourceTree = "<group>"; };
 		7CA4E8D6245C8BA200CA5E8F /* AppStore-screenshot5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot5.png"; sourceTree = "<group>"; };
+		7CA4E8DD245DBD9300CA5E8F /* AppStore-screenshot-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot-1.png"; sourceTree = "<group>"; };
+		7CA4E8DE245DBD9300CA5E8F /* AppStore-screenshot-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot-3.png"; sourceTree = "<group>"; };
+		7CA4E8DF245DBD9300CA5E8F /* AppStore-screenshot-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot-2.png"; sourceTree = "<group>"; };
+		7CA4E8E0245DBD9300CA5E8F /* AppStore-screenshot-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot-5.png"; sourceTree = "<group>"; };
+		7CA4E8E1245DBD9300CA5E8F /* AppStore-screenshot-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot-4.png"; sourceTree = "<group>"; };
+		7CA4E8E3245DBD9300CA5E8F /* AppStore-screenshot-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot-1.png"; sourceTree = "<group>"; };
+		7CA4E8E4245DBD9300CA5E8F /* AppStore-screenshot-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot-3.png"; sourceTree = "<group>"; };
+		7CA4E8E5245DBD9300CA5E8F /* AppStore-screenshot-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot-2.png"; sourceTree = "<group>"; };
+		7CA4E8E6245DBD9300CA5E8F /* AppStore-screenshot-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot-5.png"; sourceTree = "<group>"; };
+		7CA4E8E7245DBD9300CA5E8F /* AppStore-screenshot-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppStore-screenshot-4.png"; sourceTree = "<group>"; };
 		92F96C574682F84449BD6CD5 /* Pods-Gannimede.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Gannimede.debug.xcconfig"; path = "Target Support Files/Pods-Gannimede/Pods-Gannimede.debug.xcconfig"; sourceTree = "<group>"; };
 		950DEA8AE58121A34C78BF72 /* Pods-Gannimede.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Gannimede.release.xcconfig"; path = "Target Support Files/Pods-Gannimede/Pods-Gannimede.release.xcconfig"; sourceTree = "<group>"; };
 		CA68B5418FF4DFCEF28F5ABF /* Pods_Gannimede.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Gannimede.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -283,6 +303,8 @@
 		7C98E31B245656F900363F94 /* AppStore */ = {
 			isa = PBXGroup;
 			children = (
+				7CA4E8DC245DBD9300CA5E8F /* iPhone_5.5 */,
+				7CA4E8E2245DBD9300CA5E8F /* iPhone_6.5 */,
 				7CA4E8D4245C8BA200CA5E8F /* AppStore-screenshot1.png */,
 				7CA4E8D2245C8BA200CA5E8F /* AppStore-screenshot2.png */,
 				7CA4E8D3245C8BA200CA5E8F /* AppStore-screenshot3.png */,
@@ -376,6 +398,30 @@
 			name = Utilities;
 			path = Gannimede/Utilities;
 			sourceTree = SOURCE_ROOT;
+		};
+		7CA4E8DC245DBD9300CA5E8F /* iPhone_5.5 */ = {
+			isa = PBXGroup;
+			children = (
+				7CA4E8DD245DBD9300CA5E8F /* AppStore-screenshot-1.png */,
+				7CA4E8DE245DBD9300CA5E8F /* AppStore-screenshot-3.png */,
+				7CA4E8DF245DBD9300CA5E8F /* AppStore-screenshot-2.png */,
+				7CA4E8E0245DBD9300CA5E8F /* AppStore-screenshot-5.png */,
+				7CA4E8E1245DBD9300CA5E8F /* AppStore-screenshot-4.png */,
+			);
+			path = iPhone_5.5;
+			sourceTree = "<group>";
+		};
+		7CA4E8E2245DBD9300CA5E8F /* iPhone_6.5 */ = {
+			isa = PBXGroup;
+			children = (
+				7CA4E8E3245DBD9300CA5E8F /* AppStore-screenshot-1.png */,
+				7CA4E8E4245DBD9300CA5E8F /* AppStore-screenshot-3.png */,
+				7CA4E8E5245DBD9300CA5E8F /* AppStore-screenshot-2.png */,
+				7CA4E8E6245DBD9300CA5E8F /* AppStore-screenshot-5.png */,
+				7CA4E8E7245DBD9300CA5E8F /* AppStore-screenshot-4.png */,
+			);
+			path = iPhone_6.5;
+			sourceTree = "<group>";
 		};
 		A894150D3FC78E1316AD6F1C /* Frameworks */ = {
 			isa = PBXGroup;
@@ -505,16 +551,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C98E37124577DC900363F94 /* CollapsibleTableViewHeader.xib in Resources */,
+				7CA4E8F0245DBD9300CA5E8F /* AppStore-screenshot-5.png in Resources */,
 				7CA4E8D9245C8BA200CA5E8F /* AppStore-screenshot1.png in Resources */,
 				7C98E1EB2456357A00363F94 /* LaunchScreen.storyboard in Resources */,
+				7CA4E8ED245DBD9300CA5E8F /* AppStore-screenshot-1.png in Resources */,
 				7C98E277245643D500363F94 /* Localizable.strings in Resources */,
+				7CA4E8EA245DBD9300CA5E8F /* AppStore-screenshot-2.png in Resources */,
 				7C98E2102456382E00363F94 /* GoogleService-Info.plist in Resources */,
+				7CA4E8EC245DBD9300CA5E8F /* AppStore-screenshot-4.png in Resources */,
+				7CA4E8E8245DBD9300CA5E8F /* AppStore-screenshot-1.png in Resources */,
+				7CA4E8EE245DBD9300CA5E8F /* AppStore-screenshot-3.png in Resources */,
+				7CA4E8F1245DBD9300CA5E8F /* AppStore-screenshot-4.png in Resources */,
 				7C98E39124577F6C00363F94 /* Main.storyboard in Resources */,
 				7CA4E8DB245C8BA200CA5E8F /* AppStore-screenshot5.png in Resources */,
 				7CA4E8D8245C8BA200CA5E8F /* AppStore-screenshot3.png in Resources */,
+				7CA4E8E9245DBD9300CA5E8F /* AppStore-screenshot-3.png in Resources */,
 				7CA4E8D7245C8BA200CA5E8F /* AppStore-screenshot2.png in Resources */,
 				7CA4E8DA245C8BA200CA5E8F /* AppStore-screenshot4.png in Resources */,
 				7C98E327245656FA00363F94 /* screenshot2.png in Resources */,
+				7CA4E8EB245DBD9300CA5E8F /* AppStore-screenshot-5.png in Resources */,
+				7CA4E8EF245DBD9300CA5E8F /* AppStore-screenshot-2.png in Resources */,
 				7C98E1E82456357A00363F94 /* Assets.xcassets in Resources */,
 				7C98E326245656FA00363F94 /* screenshot1.png in Resources */,
 			);
@@ -836,6 +892,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Gannimede/Gannimede.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.2;
 				DEVELOPMENT_TEAM = NR9LZ3ALZE;
 				INFOPLIST_FILE = Gannimede/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -857,6 +914,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Gannimede/Gannimede.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.2;
 				DEVELOPMENT_TEAM = NR9LZ3ALZE;
 				INFOPLIST_FILE = Gannimede/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;

@@ -13,7 +13,7 @@ import CryptoSwift
 import FBSDKLoginKit
 import GoogleSignIn
 
-class LoginViewController: UIViewController, UITextFieldDelegate, FUIAuthDelegate, GIDSignInUIDelegate {
+class LoginViewController: UIViewController, UITextFieldDelegate, FUIAuthDelegate {
     
     @IBOutlet weak var emailTextField: UITextField!
     @IBOutlet weak var passwordTextField: UITextField!
@@ -30,6 +30,7 @@ class LoginViewController: UIViewController, UITextFieldDelegate, FUIAuthDelegat
         let authUI = FUIAuth.defaultAuthUI()
         authUI?.delegate = self
         let providers: [FUIAuthProvider] = [
+            FUIEmailAuth(),
             FUIGoogleAuth(),
             FUIFacebookAuth()
         ]
@@ -47,9 +48,9 @@ class LoginViewController: UIViewController, UITextFieldDelegate, FUIAuthDelegat
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        GIDSignIn.sharedInstance()?.presentingViewController = self
         emailTextField.delegate = self
         passwordTextField.delegate = self
-        GIDSignIn.sharedInstance().uiDelegate = self
         usersHandle = observeUsers()
         facebookLoginButton.delegate = self
         fixFbButtonAppearance()
